@@ -1,0 +1,9 @@
+Breast Cancer Histopathological Images
+
+
+# Ignore Python virtual environments
+.venv/
+venv/
+env/
+# Ignore model files
+*.h5
